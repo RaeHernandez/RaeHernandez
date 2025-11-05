@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rae!
+## Hi there 💫, I'm Rae!
 
 💻 **Cybersecurity Professional | Security+ | CySA+ | Splunk Certified User | Google Cybersecurity Professional Certificate**
 
