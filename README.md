@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rae!
 
-💻 **Cybersecurity Professional | Security+ | CySA+ | Splunk Certified User**
+💻 **Cybersecurity Professional | Security+ | CySA+ | Splunk Certified User | Google Cybersecurity Professional Certificate**
 
 I’m passionate about cybersecurity, both **offensive and defensive**, and driven by a curiosity to understand how systems fail and how to make them stronger. I like building, breaking, and learning from every process in between.
 Currently focused on practical SOC skills, pentesting basics, and portfolio work.
