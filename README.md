@@ -11,6 +11,9 @@ Currently focused on practical SOC skills, pentesting basics, and portfolio work
 - Completing **TryHackMe SOC Level 1** and **TryHackMe Pentest+**
 - Building out **Google Cybersecurity Portfolio Projects**
 - Preparing for the **CompTIA PenTest+ Certification**
+
+TryHackMe Badge
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/ArchCyph.png" alt="Your Image Badge" />
 ---
 
